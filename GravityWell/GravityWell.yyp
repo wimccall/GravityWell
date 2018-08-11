@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "98b90ef9-d554-4211-be56-f35432fab745",
+            "Value": {
+                "id": "870a2a03-194f-413b-bc40-20291d583dff",
+                "resourcePath": "scripts\\scriptInterpolateHSV\\scriptInterpolateHSV.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a1dd780e-c250-4a44-bc2b-8d0aa84fcc56",
             "Value": {
                 "id": "0fbd17dd-2001-4818-ab94-83397ea64173",
@@ -224,7 +232,8 @@
         }
     ],
     "script_order": [
-        "6006cd91-db65-44c6-82b5-c9e31ab95629"
+        "6006cd91-db65-44c6-82b5-c9e31ab95629",
+        "98b90ef9-d554-4211-be56-f35432fab745"
     ],
     "tutorial": ""
 }

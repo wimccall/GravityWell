@@ -8,3 +8,7 @@ enum State {
 
 currState = State.Start;
 storeForce = 0;
+maxForce = 200;
+
+targetColor = make_color_hsv(0, 200, 250);
+startColor = make_color_hsv(70, 200, 255);
